@@ -1,0 +1,16 @@
+{
+  "RootObject": {
+    "Id": "d9e90a2e-b9dd-4429-9a23-7bf85c64efe8",
+    "Name": "player",
+    "Enabled": true,
+    "Components": [
+      {
+        "__type": "MyComponent"
+      }
+    ]
+  },
+  "ShowInMenu": false,
+  "MenuPath": null,
+  "MenuIcon": null,
+  "__references": []
+}
